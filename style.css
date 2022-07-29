@@ -734,7 +734,7 @@ figure {
     display: none;
   }
   .video-wrapper {
-    width: 400px;
+    width: 550px;
     border-radius: 4%;
   }
 }
@@ -934,7 +934,7 @@ figure {
     padding-bottom: 10px;
   }
   .video-wrapper {
-    width: 250px;
+    width: 300px;
     border-radius: 4%;
   }
   #background_audio {
