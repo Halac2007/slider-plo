@@ -636,7 +636,7 @@ figure {
 }
 
 .video-wrapper {
-  width: 600px;
+  width: auto;
   border-radius: 2%;
 }
 @media screen and (max-width: 1024px) {
